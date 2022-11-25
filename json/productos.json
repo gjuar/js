@@ -1,0 +1,58 @@
+[
+    {
+        "id":"1",
+        "nombre":"iPhone 13 Red",
+        "descripcion": "256GB",
+        "precio": 787199,
+        "foto": "../media/iphone13.jpg"
+    },
+    {
+        "id":"2",
+        "nombre":"iPhone SE Blanco",
+        "descripcion": "128GB",
+        "precio": 279039,
+        "foto": "../media/iphonese.jpg"
+    },
+    {
+        "id":"3",
+        "nombre":"Samsung Galaxy Z Fold4 Gold",
+        "descripcion": "256GB",
+        "precio": 419999,
+        "foto": "../media/galaxyzfold4.jpg"
+    },
+    {
+        "id":"4",
+        "nombre":"Samsung Galaxy S22+ 5G Verde",
+        "descripcion": "256GB",
+        "precio": 340999,
+        "foto": "../media/galaxys22+.jpg"
+    },
+    {
+        "id":"5",
+        "nombre":"Samsung Galaxy Z Flip4 Purple",
+        "descripcion": "256GB",
+        "precio": 274999,
+        "foto": "../media/galaxyzflip4.jpg"
+    },
+    {
+        "id":"6",
+        "nombre":"Xiaomi Poco F4 GT 5G Amarillo",
+        "descripcion": "256GB",
+        "precio": 366799,
+        "foto": "../media/xiaomipocof4.jpg"
+    },
+    {
+        "id":"7",
+        "nombre":"Xiaomi 12X 5G Azul",
+        "descripcion": "256GB",
+        "precio": 353899,
+        "foto": "../media/xiaomi12x.jpg"
+    },
+    {
+        "id":"8",
+        "nombre":"Motorola Edge 30 Fusion Negro",
+        "descripcion": "256GB",
+        "precio": 179999,
+        "foto": "../media/motoedge30fusion.jpg"
+    }
+]
